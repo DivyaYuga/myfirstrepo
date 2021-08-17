@@ -3,6 +3,6 @@ class Hello
  public static void main(string args[])
 	{
 
-	  system.out.println("Hello from master");
+	  system.out.println("Hello from feature101");
 	}
 }
